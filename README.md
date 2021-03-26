@@ -3,10 +3,10 @@ With the evolution of technologies, the Internet of Things (IoT) became popular 
 
 My research focuses on:
 * Challenges of cloud computing
-* Why fog computing was introduced
+* Why fog computing was introduced?
 * Pillars of OpenFog
 * Main features of fog computing
-* How fog computing is different from cloud computing
+* How fog computing is different from cloud computing?
 * Virtualization in fog computing
 * Fog computing-based architectures
 * Networking in fog computing
