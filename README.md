@@ -1,1 +1,3 @@
 ## Research Seminar on Fog computing in Next Generation Networks
+With the evolution of technologies, the Internet of Things (IoT) became popular nowadays. Billions of things are being connected to the network, and a lot of data is being generated. Cloud computing is an effective choice to process and store huge amount of data. But, then comes fog computing. 
+My research focuses on the challenges of cloud computing, why fog computing was introduced, pillars of OpenFog, the main features of fog computing, how fog computing is different from cloud computing, virtualization in fog computing, fog computing-based architectures, networking and the applications and usage of fog computing.
