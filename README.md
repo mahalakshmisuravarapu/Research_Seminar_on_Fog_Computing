@@ -9,4 +9,5 @@ My research focuses on:
 * How fog computing is different from cloud computing
 * Virtualization in fog computing
 * Fog computing-based architectures
-* Networking and the applications and usage of fog computing.
+* Networking in fog computing
+* Applications and usage of fog computing
